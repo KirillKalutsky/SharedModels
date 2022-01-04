@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NakgNiBF8FGUVLkF0JQLCIIe+fIo5aeZi+mPnofD2+fVXl9Ih7S8/Ce1sZZbnABC6dd7ARZTALraMUoPfkZE4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\source\\repos\\SharedModels\\SharedModels\\SharedModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
